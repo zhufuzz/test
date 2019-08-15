@@ -1,1 +1,2 @@
 try fetch
+add some local texts
